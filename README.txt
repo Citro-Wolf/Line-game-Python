@@ -1,4 +1,8 @@
 README:
+######### REQUIREMENTS #########
+python
+pygame
+pyautogui
 
 ########### KEYBINDS ###########
 R = Red Color
